@@ -1,4 +1,4 @@
-package main.devops.business;
+package devops.business;
 
 import java.util.List;
 
